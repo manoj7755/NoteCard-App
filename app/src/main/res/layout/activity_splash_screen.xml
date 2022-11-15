@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/background"
     android:gravity="center"
+    android:orientation="vertical"
     tools:context=".Activity.SplashScreen">
 
     <com.airbnb.lottie.LottieAnimationView
@@ -15,4 +16,13 @@
         app:lottie_rawRes="@raw/noteanimation"
         app:lottie_autoPlay="true"
        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Developed By Manoj"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:layout_marginTop="-80dp"/>
 </LinearLayout>
