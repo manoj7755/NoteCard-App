@@ -1,4 +1,4 @@
-# NoteCard-App
+# NotesCart-App
 
 <img align="right" src="https://user-images.githubusercontent.com/88922867/201488495-b63e426a-5854-4135-904e-8bba0ad6013c.png"  width="350" height="680">
 
